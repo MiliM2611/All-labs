@@ -1,0 +1,92 @@
+бегать – run
+близкий – close
+бумага – paper
+видеть – see
+выглядеть – look
+выполнять – to do
+говорить – speak
+дверь – door
+двигать – move
+делать – make, to do
+динамик – speaker
+документ – paper
+дом – house, home
+домашняя папка – home
+друг – friend
+думать – think
+жилище – house
+завершать – finish
+загружать – load
+заканчивать – finish
+закрывать – close
+записывать – write
+запускать – run, start
+знать – know
+играть – play
+изготавливать – make
+изменение – change
+изображение – picture, image
+изучать – learn, study
+камера – camera
+карандаш – pencil
+картина – picture
+клавиатура – keyboard
+книга – book
+колонка – speaker
+комната – room
+компьютер – computer
+лампа – light
+манипулятор мышь – mouse
+менять – change
+монитор – screen
+мышь – mouse
+наблюдать – watch
+нагрузка – load
+наушники – headphones
+находить – find
+начинать – start
+обнаруживать – find
+образ – image
+окно – window
+открывать – open
+открытый – open
+папка – folder
+перемещаться – move
+писать – write
+подшивать – file
+помещение – room
+понимать – understand, see
+преподаватель – teacher
+принтер – printer
+приятель – friend
+пьеса – play
+работа – work
+работать – work
+разговаривать – speak
+рисовать – draw
+ручка – pen
+свет – light
+семья – family
+смотреть – look, watch
+создавать – create, build
+сохранять – save
+стол – table
+страница – page
+строить – build
+студент – student
+стул – chair
+считать – think
+таблица – table
+творить – create
+университет – university
+учащийся – student
+учитель – teacher
+учить – learn
+учиться – study
+файл – file
+фотоаппарат – camera
+чертить – draw
+читать – read
+школа – school
+экономить – save
+экран – screen

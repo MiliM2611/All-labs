@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>free-icon-different-currencies-66634.png</file>
+  </qresource>
+</RCC>
